@@ -9,3 +9,6 @@ https://www.npmjs.com/package/@katherineheadshall/cookies
 
 # Emoji Mart (Port)
 https://www.npmjs.com/package/@katherineheadshall/emoji-mart
+
+# React Money Input (Port)
+https://www.npmjs.com/package/@nodejsii/react-money-input
